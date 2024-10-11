@@ -29,12 +29,13 @@ To run this project locally, follow these steps:
   
   3. Install Dependencies (Optional): If you're using any package manager for this project, be sure to run the necessary commands, although this project likely does not require any external libraries or dependencies.
   
-  4.API Setup:
+  4. API Setup:
   
   -> You will need to sign up for a currency API (e.g., ExchangeRate-API) to get an API key.
   -> Replace the placeholder YOUR-API-KEY in the script.js file with your actual API key.
   -> Copy the below code in javaScript.
     const apiKey = 'YOUR-API-KEY'; // Replace with your actual API key
+  
   5. Run the App: Once the API key is set, open index.html in your browser and start using the currency converter.
 
 Future Enhancements
