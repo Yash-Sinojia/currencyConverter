@@ -23,7 +23,7 @@ To run this project locally, follow these steps:
 
   1. Clone the Repository:
     -> Copy code
-    -> git clone 
+    -> git clone "project link"
   
   2. Open the Project: Open the index.html file in your browser to view the app.
   
